@@ -20,17 +20,7 @@ npm i express
 npm i nodemailer
 ```
 
-3. Set up environment variables:
-
-   - Create a `.env` file in the root directory of the project.
-   - Define the following environment variables:
-
-     ```dotenv
-     PORT=
-     MONGODB_URI=
-     ```
-
-4. Run the Server:
+3. Run the Server:
 
 ```bash
 nodemon app.js
